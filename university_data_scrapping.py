@@ -101,8 +101,9 @@ if __name__ == "__main__":
         try:
             for i in range(4,14):
                 search_data()
+                driver.implicitly_wait(100)
                 next_page(i)
+                driver.implicitly_wait(100)
                 
         except:
-            driver.quit()
             create_json_file(result_data)
