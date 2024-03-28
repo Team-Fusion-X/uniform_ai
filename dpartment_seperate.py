@@ -20,7 +20,16 @@ for entry in data:
 for university in universities:
     unique_departments = list(set(universities[university]))
     universities[university] = unique_departments
+    
+# 새로운 데이터 구조 생성
+new_data = []
+for university, departments in universities.items():
+    for department in departments:
+        new_data.append({
+            "university": university,
+            "department": department
+        })
 
 # JSON 파일로 저장
 with open('json_data/universities_departments.json', 'w', encoding='utf-8') as f:
-    json.dump(universities, f, ensure_ascii=False, indent=4)
+    json.dump(new_data, f, ensure_ascii=False, indent=4)
