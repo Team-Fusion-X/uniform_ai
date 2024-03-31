@@ -1,707 +1,707 @@
 [
     {
-        "department": "한국교통대(의왕)"
+        "university": "영남대"
     },
     {
-        "department": "경기대(수원)"
+        "university": "경주대"
     },
     {
-        "department": "경북대(상주)"
+        "university": "삼육대"
     },
     {
-        "department": "계명대"
+        "university": "경운대"
     },
     {
-        "department": "인하대"
+        "university": "한신대"
     },
     {
-        "department": "서울한영대"
+        "university": "영산대(양산)"
     },
     {
-        "department": "경성대"
+        "university": "한국전통문화대"
     },
     {
-        "department": "상지대"
+        "university": "한국외대(글로벌)"
     },
     {
-        "department": "한국교통대(증평)"
+        "university": "광주교대"
     },
     {
-        "department": "강릉원주대(원주)"
+        "university": "광주여대"
     },
     {
-        "department": "한국항공대"
+        "university": "동양대(동두천)"
     },
     {
-        "department": "GIST"
+        "university": "서울여대"
     },
     {
-        "department": "성신여대"
+        "university": "영산대(부산)"
     },
     {
-        "department": "인천대"
+        "university": "성공회대"
     },
     {
-        "department": "용인대"
+        "university": "초당대"
     },
     {
-        "department": "장로회신학대"
+        "university": "신라대"
     },
     {
-        "department": "조선대"
+        "university": "상지대"
     },
     {
-        "department": "안양대(안양)"
+        "university": "총신대"
     },
     {
-        "department": "성공회대"
+        "university": "서울대"
     },
     {
-        "department": "한국체육대"
+        "university": "한라대"
     },
     {
-        "department": "경동대(고성)"
+        "university": "한밭대"
     },
     {
-        "department": "한려대"
+        "university": "청운대(홍성)"
     },
     {
-        "department": "남서울대"
+        "university": "덕성여대"
     },
     {
-        "department": "서울대"
+        "university": "차의과학대"
     },
     {
-        "department": "성균관대"
+        "university": "한국교통대(충주)"
     },
     {
-        "department": "건양대(논산)"
+        "university": "가톨릭대(성심)"
     },
     {
-        "department": "숙명여대"
+        "university": "중앙대(안성)"
     },
     {
-        "department": "KC대"
+        "university": "한국성서대"
     },
     {
-        "department": "중부대(고양)"
+        "university": "서울시립대"
     },
     {
-        "department": "호서대(아산)"
+        "university": "을지대(성남)"
     },
     {
-        "department": "서울교대"
+        "university": "경인교대"
     },
     {
-        "department": "동신대"
+        "university": "신한대(의정부)"
     },
     {
-        "department": "서울신학대"
+        "university": "서울장신대"
     },
     {
-        "department": "홍익대(세종)"
+        "university": "신한대(동두천)"
     },
     {
-        "department": "삼육대"
+        "university": "육군사관학교"
     },
     {
-        "department": "침례신학대"
+        "university": "금오공과대"
     },
     {
-        "department": "한라대"
+        "university": "김천대"
     },
     {
-        "department": "한국전통문화대"
+        "university": "가톨릭대(성신)"
     },
     {
-        "department": "경주대"
+        "university": "인제대(김해)"
     },
     {
-        "department": "경동대(원주문막)"
+        "university": "중부대(고양)"
     },
     {
-        "department": "숭실대"
+        "university": "중앙대(서울)"
     },
     {
-        "department": "유원대"
+        "university": "진주교대"
     },
     {
-        "department": "부산교대"
+        "university": "한국기술교육대"
     },
     {
-        "department": "한밭대"
+        "university": "강원대(삼척)"
     },
     {
-        "department": "홍익대(서울)"
+        "university": "대구대"
     },
     {
-        "department": "우석대(완주)"
+        "university": "공군사관학교"
     },
     {
-        "department": "군산대"
+        "university": "전남대(광주)"
     },
     {
-        "department": "울산대"
+        "university": "국군간호사관학교"
     },
     {
-        "department": "전북대(전주)"
+        "university": "명지대(용인)"
     },
     {
-        "department": "한세대"
+        "university": "한성대"
     },
     {
-        "department": "경희대(국제)"
+        "university": "세명대"
     },
     {
-        "department": "금오공과대"
+        "university": "배재대"
     },
     {
-        "department": "DGIST"
+        "university": "한서대"
     },
     {
-        "department": "세종대"
+        "university": "남부대"
     },
     {
-        "department": "나사렛대"
+        "university": "경남과학기술대"
     },
     {
-        "department": "명지대(용인)"
+        "university": "홍익대(세종)"
     },
     {
-        "department": "원광대"
+        "university": "충남대"
     },
     {
-        "department": "해군사관학교"
+        "university": "호서대(아산)"
     },
     {
-        "department": "대구예술대"
+        "university": "고려대(서울)"
     },
     {
-        "department": "한림대"
+        "university": "동명대"
     },
     {
-        "department": "신라대"
+        "university": "동서대"
     },
     {
-        "department": "동덕여대"
+        "university": "군산대"
     },
     {
-        "department": "고려대(서울)"
+        "university": "호원대"
     },
     {
-        "department": "중앙대(안성)"
+        "university": "광운대"
     },
     {
-        "department": "평택대"
+        "university": "숭실대"
     },
     {
-        "department": "한양대(에리카)"
+        "university": "한국외대(서울)"
     },
     {
-        "department": "협성대"
+        "university": "성결대"
     },
     {
-        "department": "부산가톨릭대"
+        "university": "아세아연합신학대"
     },
     {
-        "department": "극동대"
+        "university": "인천대"
     },
     {
-        "department": "영남대"
+        "university": "경동대(원주문막)"
     },
     {
-        "department": "순천향대"
+        "university": "경남대"
     },
     {
-        "department": "광주여대"
+        "university": "부산외국어대"
     },
     {
-        "department": "신한대(동두천)"
+        "university": "서울교대"
     },
     {
-        "department": "제주국제대"
+        "university": "광주대"
     },
     {
-        "department": "경인교대"
+        "university": "호남대"
     },
     {
-        "department": "한국외대(서울)"
+        "university": "홍익대(서울)"
     },
     {
-        "department": "한양대(서울)"
+        "university": "우석대(진천)"
     },
     {
-        "department": "차의과학대"
+        "university": "동아대"
     },
     {
-        "department": "인제대(부산)"
+        "university": "아주대"
     },
     {
-        "department": "광운대"
+        "university": "GIST"
     },
     {
-        "department": "충남대"
+        "university": "한림대"
     },
     {
-        "department": "가톨릭대(성심)"
+        "university": "송원대"
     },
     {
-        "department": "공주대(예산)"
+        "university": "강릉원주대(강릉)"
     },
     {
-        "department": "대구한의대"
+        "university": "평택대"
     },
     {
-        "department": "동아대"
+        "university": "가톨릭대(성의)"
     },
     {
-        "department": "한국외대(글로벌)"
+        "university": "동국대(경주)"
     },
     {
-        "department": "세한대(영암)"
+        "university": "건국대(서울)"
     },
     {
-        "department": "공주대(공주)"
+        "university": "호서대(천안)"
     },
     {
-        "department": "제주대"
+        "university": "원광대"
     },
     {
-        "department": "중부대(충청)"
+        "university": "조선대"
     },
     {
-        "department": "감리교신학대"
+        "university": "한국예술종합학교"
     },
     {
-        "department": "을지대(성남)"
+        "university": "경기대(서울)"
     },
     {
-        "department": "강릉원주대(강릉)"
+        "university": "동덕여대"
     },
     {
-        "department": "상명대(서울)"
+        "university": "공주교대"
     },
     {
-        "department": "연세대(서울)"
+        "university": "대구예술대"
     },
     {
-        "department": "추계예술대"
+        "university": "경희대(서울)"
     },
     {
-        "department": "목원대"
+        "university": "대구교대"
     },
     {
-        "department": "고려대(세종)"
+        "university": "침례신학대"
     },
     {
-        "department": "건양대(대전)"
+        "university": "신경대"
     },
     {
-        "department": "칼빈대"
+        "university": "세한대(영암)"
     },
     {
-        "department": "경기대(서울)"
+        "university": "남서울대"
     },
     {
-        "department": "동국대(서울)"
+        "university": "서경대"
     },
     {
-        "department": "우석대(진천)"
+        "university": "대진대"
     },
     {
-        "department": "중앙대(서울)"
+        "university": "한세대"
     },
     {
-        "department": "예원예술대(양주)"
+        "university": "가톨릭관동대"
     },
     {
-        "department": "단국대(천안)"
+        "university": "가야대"
     },
     {
-        "department": "대전신학대"
+        "university": "추계예술대"
     },
     {
-        "department": "동양대(동두천)"
+        "university": "국민대"
     },
     {
-        "department": "강남대"
+        "university": "나사렛대"
     },
     {
-        "department": "가톨릭대(성의)"
+        "university": "경희대(국제)"
     },
     {
-        "department": "배재대"
+        "university": "경북대(대구)"
     },
     {
-        "department": "서강대"
+        "university": "전북대(특성화)"
     },
     {
-        "department": "고신대"
+        "university": "한려대"
     },
     {
-        "department": "서경대"
+        "university": "서강대"
     },
     {
-        "department": "영산대(부산)"
+        "university": "백석대"
     },
     {
-        "department": "한남대"
+        "university": "한국국제대"
     },
     {
-        "department": "한국예술종합학교"
+        "university": "한국교통대(증평)"
     },
     {
-        "department": "세명대"
+        "university": "강원대(도계)"
     },
     {
-        "department": "서울장신대"
+        "university": "계명대"
     },
     {
-        "department": "선문대"
+        "university": "유원대"
     },
     {
-        "department": "전남대(여수)"
+        "university": "경상대"
     },
     {
-        "department": "창신대"
+        "university": "중부대(충청)"
     },
     {
-        "department": "한국국제대"
+        "university": "부산대"
     },
     {
-        "department": "강원대(삼척)"
+        "university": "인제대(부산)"
     },
     {
-        "department": "가톨릭관동대"
+        "university": "이화여대"
     },
     {
-        "department": "호원대"
+        "university": "한동대"
     },
     {
-        "department": "대구교대"
+        "university": "DGIST"
     },
     {
-        "department": "동의대"
+        "university": "건양대(논산)"
     },
     {
-        "department": "부산외국어대"
+        "university": "용인대"
     },
     {
-        "department": "창원대"
+        "university": "단국대(천안)"
     },
     {
-        "department": "상명대(천안)"
+        "university": "한경대"
     },
     {
-        "department": "경동대(양주)"
+        "university": "청주대"
     },
     {
-        "department": "경상대"
+        "university": "공주대(공주)"
     },
     {
-        "department": "공주대(천안)"
+        "university": "고신대"
     },
     {
-        "department": "한신대"
+        "university": "전남대(여수)"
     },
     {
-        "department": "경남과학기술대"
+        "university": "목원대"
     },
     {
-        "department": "김천대"
+        "university": "목포해양대"
     },
     {
-        "department": "서울여대"
+        "university": "KAIST"
     },
     {
-        "department": "한국해양대"
+        "university": "경일대"
     },
     {
-        "department": "을지대(대전)"
+        "university": "경동대(양주)"
     },
     {
-        "department": "한국산업기술대"
+        "university": "부산가톨릭대"
     },
     {
-        "department": "인천가톨릭대(송도)"
+        "university": "부산교대"
     },
     {
-        "department": "송원대"
+        "university": "성균관대"
     },
     {
-        "department": "아주대"
+        "university": "창신대"
     },
     {
-        "department": "춘천교대"
+        "university": "KC대"
     },
     {
-        "department": "호남대"
+        "university": "순천대"
     },
     {
-        "department": "대전대"
+        "university": "한남대"
     },
     {
-        "department": "공군사관학교"
+        "university": "UNIST"
     },
     {
-        "department": "한경대"
+        "university": "경성대"
     },
     {
-        "department": "단국대(죽전)"
+        "university": "동양대(영주)"
     },
     {
-        "department": "꽃동네대"
+        "university": "가천대(메디컬)"
     },
     {
-        "department": "청운대(홍성)"
+        "university": "호서대(당진)"
     },
     {
-        "department": "아세아연합신학대"
+        "university": "충북대"
     },
     {
-        "department": "한일장신대"
+        "university": "예수대"
     },
     {
-        "department": "전주대"
+        "university": "연세대(서울)"
     },
     {
-        "department": "가천대(글로벌)"
+        "university": "경북대(상주)"
     },
     {
-        "department": "한서대"
+        "university": "전주교대"
     },
     {
-        "department": "전북대(특성화)"
+        "university": "제주대"
     },
     {
-        "department": "경북대(대구)"
+        "university": "창원대"
     },
     {
-        "department": "안양대(강화)"
+        "university": "동신대"
     },
     {
-        "department": "건국대(서울)"
+        "university": "한일장신대"
     },
     {
-        "department": "광주대"
+        "university": "을지대(대전)"
     },
     {
-        "department": "신한대(의정부)"
+        "university": "상명대(천안)"
     },
     {
-        "department": "연세대(미래)"
+        "university": "강남대"
     },
     {
-        "department": "강원대(도계)"
+        "university": "강릉원주대(원주)"
     },
     {
-        "department": "서울시립대"
+        "university": "동의대"
     },
     {
-        "department": "명지대(서울)"
+        "university": "순천향대"
     },
     {
-        "department": "경희대(서울)"
+        "university": "동국대(서울)"
     },
     {
-        "department": "서울과학기술대"
+        "university": "예원예술대(전북)"
     },
     {
-        "department": "청주대"
+        "university": "예원예술대(양주)"
     },
     {
-        "department": "부산대"
+        "university": "우석대(완주)"
     },
     {
-        "department": "경찰대학"
+        "university": "선문대"
     },
     {
-        "department": "청운대(인천)"
+        "university": "공주대(예산)"
     },
     {
-        "department": "강원대(춘천)"
+        "university": "인천가톨릭대(송도)"
     },
     {
-        "department": "한국기술교육대"
+        "university": "제주국제대"
     },
     {
-        "department": "동국대(경주)"
+        "university": "한국체육대"
     },
     {
-        "department": "청주교대"
+        "university": "인하대"
     },
     {
-        "department": "한동대"
+        "university": "울산대"
     },
     {
-        "department": "가천대(메디컬)"
+        "university": "공주대(천안)"
     },
     {
-        "department": "호서대(당진)"
+        "university": "장로회신학대"
     },
     {
-        "department": "우송대"
+        "university": "안양대(강화)"
     },
     {
-        "department": "한국교통대(충주)"
+        "university": "서울한영대"
     },
     {
-        "department": "경운대"
+        "university": "세한대(당진)"
     },
     {
-        "department": "예수대"
+        "university": "경동대(고성)"
     },
     {
-        "department": "총신대"
+        "university": "단국대(죽전)"
     },
     {
-        "department": "한성대"
+        "university": "세종대"
     },
     {
-        "department": "위덕대"
+        "university": "해군사관학교"
     },
     {
-        "department": "KAIST"
+        "university": "한국산업기술대"
     },
     {
-        "department": "초당대"
+        "university": "한양대(에리카)"
     },
     {
-        "department": "예원예술대(전북)"
+        "university": "고려대(세종)"
     },
     {
-        "department": "이화여대"
+        "university": "서원대"
     },
     {
-        "department": "인제대(김해)"
+        "university": "극동대"
     },
     {
-        "department": "경남대"
+        "university": "대구가톨릭대"
     },
     {
-        "department": "동명대"
+        "university": "서울신학대"
     },
     {
-        "department": "순천대"
+        "university": "한국항공대"
     },
     {
-        "department": "공주교대"
+        "university": "성신여대"
     },
     {
-        "department": "가야대"
+        "university": "협성대"
     },
     {
-        "department": "루터대"
+        "university": "서울과학기술대"
     },
     {
-        "department": "목포대"
+        "university": "부경대"
     },
     {
-        "department": "목포해양대"
+        "university": "춘천교대"
     },
     {
-        "department": "서원대"
+        "university": "경기대(수원)"
     },
     {
-        "department": "광주교대"
+        "university": "대전대"
     },
     {
-        "department": "동양대(영주)"
+        "university": "한국해양대"
     },
     {
-        "department": "전남대(광주)"
+        "university": "가천대(글로벌)"
     },
     {
-        "department": "수원대"
+        "university": "명지대(서울)"
     },
     {
-        "department": "UNIST"
+        "university": "상명대(서울)"
     },
     {
-        "department": "국민대"
+        "university": "서울기독대"
     },
     {
-        "department": "동서대"
+        "university": "안양대(안양)"
     },
     {
-        "department": "성결대"
+        "university": "건양대(대전)"
     },
     {
-        "department": "서울기독대"
+        "university": "목포대"
     },
     {
-        "department": "한국교원대"
+        "university": "대구한의대"
     },
     {
-        "department": "국군간호사관학교"
+        "university": "수원대"
     },
     {
-        "department": "호서대(천안)"
+        "university": "꽃동네대"
     },
     {
-        "department": "건국대(글로컬)"
+        "university": "대전신학대"
     },
     {
-        "department": "대진대"
+        "university": "전주대"
     },
     {
-        "department": "충북대"
+        "university": "포항공과대"
     },
     {
-        "department": "신경대"
+        "university": "한국교원대"
     },
     {
-        "department": "세한대(당진)"
+        "university": "경찰대학"
     },
     {
-        "department": "육군사관학교"
+        "university": "건국대(글로컬)"
     },
     {
-        "department": "안동대"
+        "university": "전북대(전주)"
     },
     {
-        "department": "포항공과대"
+        "university": "감리교신학대"
     },
     {
-        "department": "한국성서대"
+        "university": "연세대(미래)"
     },
     {
-        "department": "덕성여대"
+        "university": "중원대"
     },
     {
-        "department": "전주교대"
+        "university": "위덕대"
     },
     {
-        "department": "중원대"
+        "university": "한양대(서울)"
     },
     {
-        "department": "가톨릭대(성신)"
+        "university": "우송대"
     },
     {
-        "department": "남부대"
+        "university": "청운대(인천)"
     },
     {
-        "department": "대구가톨릭대"
+        "university": "목포가톨릭대"
     },
     {
-        "department": "영산대(양산)"
+        "university": "한국교통대(의왕)"
     },
     {
-        "department": "목포가톨릭대"
+        "university": "강원대(춘천)"
     },
     {
-        "department": "부경대"
+        "university": "칼빈대"
     },
     {
-        "department": "진주교대"
+        "university": "청주교대"
     },
     {
-        "department": "백석대"
+        "university": "루터대"
     },
     {
-        "department": "경일대"
+        "university": "숙명여대"
     },
     {
-        "department": "대구대"
+        "university": "안동대"
     }
 ]
