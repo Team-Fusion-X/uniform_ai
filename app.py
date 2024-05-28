@@ -68,7 +68,7 @@ def predict():
     result = int(result[0] * 100)
     
     #json 형식으로 return
-    return jsonify({'합격 확률' : f'{result}%'})
+    return jsonify({'합격 확률' : f'{result}'})
 
 
 if __name__ == '__main__':
