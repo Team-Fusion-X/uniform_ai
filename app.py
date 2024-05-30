@@ -61,16 +61,19 @@ def predict():
     
     input_data = input.tolist()
 
-	#모델과 비교
-    result = model.predict(input_data)
-    
-    # 백분위로 변환하고 소수점 뒤에 숫자 없애기
-    result = int(result[0] * 100)
+    try:
+        # 모델 예측
+        result = model.predict(input_data)
+        # 백분위로 변환하고 소수점 뒤에 숫자 없애기
+        result = int(result[0] * 100)
+        ans = {'합격 확률' : f'{result}'}
+    except Exception as e:
+        # 예측 중 오류가 발생하면 'Error'를 출력
+        ans = {"Error": "Missing Data Error"}
     
     #json 형식으로 return
-    return jsonify({'합격 확률' : f'{result}'})
-
+    return jsonify(ans)
 
 if __name__ == '__main__':
     # Run Flask app
-    app.run(debug=True, port=7070)
+    app.run(debug=True, port=2000)
