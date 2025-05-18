@@ -1,8 +1,8 @@
-# AI 기반 대학 입시 도움 플랫폼 Uniform_AI (강민지)
+# AI 기반 대학 입시 도움 플랫폼 Uniform_AI 
 
 ### 주요기능
 
-![image](https://github.com/user-attachments/assets/8b7c633c-5d77-48cb-8fbd-0fd776ade8b9)
+<img src="https://github.com/user-attachments/assets/8b7c633c-5d77-48cb-8fbd-0fd776ade8b9" width="600px"/>
 
 
 - 대학교 합불 데이터 스크래핑 후 모델 학습
